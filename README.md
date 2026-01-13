@@ -1,6 +1,7 @@
 # Week 1 Practical 2 - Structuring Content with HTML
 
-This practical is all about getting you to start writing your own HTML from scratch, while thinking carefully about the structure of your site and use of semantic elements. You will build a basic portfolio site over the next few practicals. Today you will focus on planning the structure of your site and writing the basic HTML.
+This practical is about getting writing your own HTML from scratch, while thinking carefully about the structure of your site and use of semantic elements. You will build a basic portfolio site over the next few practicals. Today you will focus on planning the structure of your site and writing the basic HTML.
+
 The work for this practical has been broken down into 2 stages. 
 
 ## Stage 1: Planning and describing content with semantic HTML
